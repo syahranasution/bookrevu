@@ -1,0 +1,14 @@
+* {
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.font-archivo {
+    font-family: "Archivo Black", sans-serif;
+    font-style: normal;
+}
+
+.bg-blue {
+    background-color: #0B2B96;
+}
